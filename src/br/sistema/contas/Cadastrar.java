@@ -1,5 +1,5 @@
 package br.sistema.contas;
 
-public class Login {	
-	
+public class Cadastrar {
+
 }

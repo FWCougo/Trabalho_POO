@@ -4,7 +4,7 @@ public class Cliente extends Usuario{
 	
 	private String cartaoCredito;
 
-	//Contructors
+	//Constructors
 	public Cliente() {
 		super();		
 	}	

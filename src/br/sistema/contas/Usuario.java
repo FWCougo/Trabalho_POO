@@ -3,8 +3,7 @@ package br.sistema.contas;
 public abstract class Usuario {
 	private String nome;
 	private String telefone;
-	private String email;
-	
+	private String email;	
 	
 	//Constructors
 	public Usuario() {}

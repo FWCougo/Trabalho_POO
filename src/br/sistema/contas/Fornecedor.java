@@ -4,7 +4,7 @@ public class Fornecedor extends Usuario {
 
 	private String descricao;	
 	
-	//Contructors
+	//Constructors
 	public Fornecedor() {
 		super();		
 	}	
